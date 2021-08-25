@@ -1,0 +1,9 @@
+C:\Users\etec0\source\repos\GUI_Felipe\GUI_Felipe\bin\Debug\GUI_Felipe.exe.config
+C:\Users\etec0\source\repos\GUI_Felipe\GUI_Felipe\bin\Debug\GUI_Felipe.exe
+C:\Users\etec0\source\repos\GUI_Felipe\GUI_Felipe\bin\Debug\GUI_Felipe.pdb
+C:\Users\etec0\source\repos\GUI_Felipe\GUI_Felipe\obj\Debug\GUI_Felipe.csprojAssemblyReference.cache
+C:\Users\etec0\source\repos\GUI_Felipe\GUI_Felipe\obj\Debug\GUI_Felipe.Form1.resources
+C:\Users\etec0\source\repos\GUI_Felipe\GUI_Felipe\obj\Debug\GUI_Felipe.Properties.Resources.resources
+C:\Users\etec0\source\repos\GUI_Felipe\GUI_Felipe\obj\Debug\GUI_Felipe.csproj.GenerateResource.cache
+C:\Users\etec0\source\repos\GUI_Felipe\GUI_Felipe\obj\Debug\GUI_Felipe.exe
+C:\Users\etec0\source\repos\GUI_Felipe\GUI_Felipe\obj\Debug\GUI_Felipe.pdb
